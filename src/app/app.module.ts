@@ -6,7 +6,7 @@ import {HolaMundo} from './primercomponente/primer.componente';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
     HolaMundo
   ],
   imports: [
